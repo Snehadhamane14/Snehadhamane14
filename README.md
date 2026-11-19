@@ -25,7 +25,10 @@ I'm Sneha Dhamane | Computer Engineering Student |<br>🌱 I'm currently learnin
 [![](https://komarev.com/ghpvc/?username=Snehadhamane14&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ https://buymeacoffee.com/SnehaBytes) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ https://ko-fi.com/SnehaBytes) 
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/SnehaBytes)
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/SnehaBytes)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
