@@ -1,4 +1,4 @@
- # Hey 😊 
+ # About Me 💫
 I'm Sneha Dhamane | Computer Engineering Student |<br>🌱 I'm currently learning<br>- Python & DSA<br>- Artificial Intelligence & Machine Learning<br>- Data Science<br>- Web Development<br>- Git & GitHub
 
 
